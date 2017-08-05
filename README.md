@@ -8,7 +8,7 @@ The goal of the game is to eliminate all the pieces from the table. Pieces are e
 
 <img src="https://user-images.githubusercontent.com/29502039/28996792-564a772a-7a0f-11e7-9563-bf13d94fc0d4.jpg" width=35% height=35% title="Mid-game on default difficulty.">  _&_  <img src="https://user-images.githubusercontent.com/29502039/28996799-61feb0c2-7a0f-11e7-9a07-4a864c70055c.jpg" width=35% height=35% title="Opening round on easy difficulty.">
 
-### Credits 
+### Tools & Resources
 
 The base images for the game pieces' face-up sprites are from public domain collections ([OneLeft Media](https://www.oneleftmedia.com/), [pixabay](https://pixabay.com/) and [LIBRESHOT](https://libreshot.com/)). I used [GIMP](https://www.gimp.org/) to make the sprites and [NetBeans](https://netbeans.org/) to write the program's code.
 
