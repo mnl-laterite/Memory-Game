@@ -37,7 +37,7 @@ public class GamePieces extends Canvas {
         imageList = new Image[imageNum];
         
         for (int i=0; i < imageNum; ++i)
-            imageList[i] = new ImageIcon( getClass().getResource("/"+ i +".png")).getImage();
+            imageList[i] = new ImageIcon( getClass().getResource("/images/"+ i +".png")).getImage();
         
         repaint();
     }
