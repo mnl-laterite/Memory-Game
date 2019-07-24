@@ -1,6 +1,6 @@
 ## Memory Game
 
-A bare-bones clone of a type of memory game that used to be bundled with some older operating systems. 
+A bare-bones clone of a type of memory game that used to be bundled with some older operating systems. See [this project](https://github.com/mnl-laterite/Memory-Game-2) for a significantly more polished version of the same game.
 
 The goal of the game is to eliminate all the pieces from the table. Pieces are eliminated in pairs, if they are both uncovered during the same round (turn). A turn consists of flipping over two game pieces. The two pieces are flipped back bottom-side-up if they don't match.   
 
